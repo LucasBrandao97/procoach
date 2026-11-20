@@ -1,13 +1,17 @@
 {
-  "versao": "6.7-teste-3",
-  "data": "19/11/2026",
-  "titulo": "Novidades da versão 6.7 (teste)",
+  "versao": "6.7",
+  "data": "20/11/2026",
+  "titulo": "Mercado mais justo, metas que pagam e craques que evoluem durante o ano",
   "itens": [
-    "Elite mais equilibrada: menos craques 85+ concentrados e menos exportações para o exterior.",
-    "Os clubes estrangeiros agora evoluem junto com os brasileiros.",
-    "Libertadores mais disputada: nas simulações, o campeão brasileiro caiu de cerca de 88% para cerca de 60% das edições.",
-    "Caixa dos clubes controlados pela IA mais equilibrado.",
-    "O jogo agora instala no celular, funciona sem internet e atualiza sozinho."
+    "Ofertas pelos seus jogadores: quem não é rival paga de 80% a 100% do valor; o rival direto (mesma divisão, até 4 posições de distância na tabela) paga de 100% a 125%. Vale para leilão, propostas e preço fixo.",
+    "Meta da diretoria: a conservadora garante mais verba para contratar agora; a ousada paga o maior prêmio no fim da temporada se for cumprida.",
+    "Base: o investimento é escolhido logo depois da meta e pago de uma vez. Garotos só sobem ao profissional a partir dos 17 anos, e a tela Base mostra quanto cada um evoluiu.",
+    "Evolução ao longo do ano: a força dos jogadores pode subir a qualquer rodada do Brasileirão, um pouco mais para quem está em boa fase e jogando em sequência. Na base, o garoto evolui mais quando o time principal vai bem.",
+    "Mercado: o preço virou uma incógnita (raramente um clube qualquer paga até 125%); propostas do exterior pagam de 125% a 150% e podem chegar também por um bom titular ou uma joia da base.",
+    "Jogo evolutivo: a cada temporada os garotos que chegam às bases nascem um pouco melhores, e o nível do futebol continua subindo ao longo da carreira (os estrangeiros acompanham).",
+    "Ícones: a partir da 2ª temporada, um garoto lendário da base pode nascer com o nome de um craque histórico.",
+    "Bola de Ouro um pouco menos para zagueiros e laterais, e goleiros agora podem ganhar (raro, cerca de 2% das vezes); clubes da IA ampliam o estádio quando vão bem nas duas últimas temporadas.",
+    "Correções: a verba de contratação do topo, a barra e o mínimo de salários em Finanças agora mudam juntos, na hora. Nova tela Novidades em Informações do jogo."
   ],
-  "build": "06b8b24e1031"
+  "build": "0e88ee6e5068"
 }
